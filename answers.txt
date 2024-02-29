@@ -4,8 +4,9 @@ Hey, I am your local computer~ It seems that you made it!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-It will fetch the new changes committed in the remote server
+It will fetch the new changes committed in the remote servert
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is run in my local computer, while GitHub is a kind of remote central server.
+Git is version control system, while GitHub is a hosting service for Git repositories
