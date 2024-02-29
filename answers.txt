@@ -1,5 +1,6 @@
 Part 1: Write your message here from GitHub
 Can I do well in CS 193? Of course you can!
+Hey, I am your local computer~ It seems that you made it!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
